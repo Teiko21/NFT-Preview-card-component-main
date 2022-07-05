@@ -40,7 +40,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Teiko](https://www.frontendmentor.io/profile/Teiko)
+- Frontend Mentor - [@Teiko21](https://www.frontendmentor.io/profile/Teiko21)
 - Twitter - [@Teiko21](https://www.twitter.com/Teiko21)
 
  
